@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic De-AI Rewrite"
+  short_description: "Rewrite paper prose to reduce AI traces"
+  default_prompt: "Use $academic-de-ai-rewrite to rewrite this paper passage into natural academic English while preserving technical meaning and LaTeX structure."
